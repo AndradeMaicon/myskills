@@ -40,37 +40,23 @@ To run this project in your localhost, you need to install;
 **Follow this steps to run**
 1. Clone this reapository on your selected folder;
 2. Install all dependencis packages, with:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`yarn`    
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or  
-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npm install`  
+`yarn`    
+or  
+`npm install`  
 
 3. To start, run:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On environment IOS  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`yarn ios`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npx ios`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npx react-native run-ios`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On environment Android  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`yarn start`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`yarn android`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npx start`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npx android`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npx react-native start`  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npx react-native run-android`  
+On environment IOS  
+`yarn ios`  
+or  
+`npx ios`
+or  
+`npx react-native run-ios`  
+On environment Android  
+`yarn start`  
+`yarn android`  
+or  
+`npx start`  
+`npx android`  
+or  
+`npx react-native start`  
+`npx react-native run-android`  
