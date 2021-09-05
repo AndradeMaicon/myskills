@@ -48,7 +48,7 @@ or
 On environment IOS  
 `yarn ios`  
 or  
-`npx ios`
+`npx ios`  
 or  
 `npx react-native run-ios`  
 On environment Android  
