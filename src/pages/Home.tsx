@@ -26,6 +26,8 @@ export function Home() {
       name: newSkill,
     };
 
+    console.log('New Skill', data);
+
     setMySkills(oldState => [...oldState, data]);
   }
 
@@ -47,7 +49,7 @@ export function Home() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}> Welcome, Maicon </Text>
+      <Text style={styles.title}>Welcome, Maicon</Text>
       <Text style={styles.gretting}>{gretting}</Text>
       <TextInput
         style={styles.input}
