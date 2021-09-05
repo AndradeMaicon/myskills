@@ -32,45 +32,45 @@ Builded powered by React Native.
 
 ### How to run:
 
-**Installation Requirements**
+**Installation Requirements**  
 To run this project in your localhost, you need to install;
  * NodeJS 14;
  * Yarn ou npm package manager;
 
 **Follow this steps to run**
 1. Clone this reapository on your selected folder;
-2. Install all dependencis packages, with:
-  `yarn`
+2. Install all dependencis packages, with:  
+  `yarn`    
 
-  or
+  or  
     
-  `npm install`
+  `npm install`  
 
-3. To start, run:
-  On environment IOS
-  `yarn ios`
+3. To start, run:  
+  On environment IOS  
+  `yarn ios`  
 
-  or
+  or  
   
   `npx ios`
 
-  or
+  or  
 
-  `npx react-native run-ios`
+  `npx react-native run-ios`  
 
-  On environment Android
-  `yarn start`
+  On environment Android  
+  `yarn start`  
 
-  `yarn android`
+  `yarn android`  
 
-  or 
+  or  
 
-  `npx start`
+  `npx start`  
 
-  `npx android`
+  `npx android`  
 
-  or
+  or  
 
-  `npx react-native start`
+  `npx react-native start`  
 
-  `npx react-native run-android`
+  `npx react-native run-android`  
