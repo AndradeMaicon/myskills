@@ -10,7 +10,7 @@
 
 ### Objective:
 
-*This project, it is a simple app where somone can whrit and add your skillson a simple list.*
+*This project, it is a simple app where someone can write and add your skills on a list.*
 
 ----
 
